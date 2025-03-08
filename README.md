@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **tableau, sql queries, python**
 
-- 📫 How to reach me **alaparthitejesh@gmail.com**
+- 📫 How to reach me **alaparthitejesh8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
