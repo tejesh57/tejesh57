@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tejesh Alaparthi</h1>
 <h3 align="center">A results-driven Data Analyst with 4+ years of experience</h3>
 
-- 🔭 I’m currently working on **Super Store Analytics**
+- 🔭 I’m currently working on **Sports Analytics and Bank Marketing Campaign**  
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Tableau, Machine Learning, and DevOps to enhance my Analytics projects.**
 
-- 👯 I’m looking to collaborate on **Analysis of messy data**
+- 👯 I’m looking to collaborate on **any open source analytics projects**
 
 - 🤝 I’m looking for help with **gaining experimental knowledge**
 
-- 💬 Ask me about **tableau, sql queries, python**
+- 💬 Ask me about **solving a problem with data and/or machine learning**
 
-- 📫 How to reach me **alaparthitejesh8@gmail.com**
+- 📫 How to reach me: **I'm reachable via LinkedIn, Twitter and Mail.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
